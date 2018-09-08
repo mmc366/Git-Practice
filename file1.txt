@@ -1,1 +1,2 @@
 "Hello first Git" 
+"This is the second line." 
